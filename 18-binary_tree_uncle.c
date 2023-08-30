@@ -4,7 +4,7 @@
  * binary_tree_uncle - Function that finds the uncle of a node
  * in a binary tree
  * @node: A pointer to the node to find the uncle of
- *
+ * 
  * Return: If node is NULL, return NULL
  * If node has no uncle, return NULL
  */
