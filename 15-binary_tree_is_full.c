@@ -4,6 +4,7 @@
  * is_full_recursive - Function that checks
  * if a binary tree is full recursively
  * @tree: A pointer to the root node of the tree to check
+ * 
  * Return: If tree is NULL, your function must return 0
  */
 int is_full_recursive(const binary_tree_t *tree)
